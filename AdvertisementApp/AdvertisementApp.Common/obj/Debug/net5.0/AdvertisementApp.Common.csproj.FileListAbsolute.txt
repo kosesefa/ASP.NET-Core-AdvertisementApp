@@ -1,0 +1,12 @@
+C:\Users\sefak\source\repos\AdvertisementApp\AdvertisementApp.Common\bin\Debug\net5.0\AdvertisementApp.Common.deps.json
+C:\Users\sefak\source\repos\AdvertisementApp\AdvertisementApp.Common\bin\Debug\net5.0\AdvertisementApp.Common.dll
+C:\Users\sefak\source\repos\AdvertisementApp\AdvertisementApp.Common\bin\Debug\net5.0\AdvertisementApp.Common.pdb
+C:\Users\sefak\source\repos\AdvertisementApp\AdvertisementApp.Common\obj\Debug\net5.0\AdvertisementApp.Common.csproj.AssemblyReference.cache
+C:\Users\sefak\source\repos\AdvertisementApp\AdvertisementApp.Common\obj\Debug\net5.0\AdvertisementApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sefak\source\repos\AdvertisementApp\AdvertisementApp.Common\obj\Debug\net5.0\AdvertisementApp.Common.AssemblyInfoInputs.cache
+C:\Users\sefak\source\repos\AdvertisementApp\AdvertisementApp.Common\obj\Debug\net5.0\AdvertisementApp.Common.AssemblyInfo.cs
+C:\Users\sefak\source\repos\AdvertisementApp\AdvertisementApp.Common\obj\Debug\net5.0\AdvertisementApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\sefak\source\repos\AdvertisementApp\AdvertisementApp.Common\obj\Debug\net5.0\AdvertisementApp.Common.dll
+C:\Users\sefak\source\repos\AdvertisementApp\AdvertisementApp.Common\obj\Debug\net5.0\refint\AdvertisementApp.Common.dll
+C:\Users\sefak\source\repos\AdvertisementApp\AdvertisementApp.Common\obj\Debug\net5.0\AdvertisementApp.Common.pdb
+C:\Users\sefak\source\repos\AdvertisementApp\AdvertisementApp.Common\obj\Debug\net5.0\ref\AdvertisementApp.Common.dll
